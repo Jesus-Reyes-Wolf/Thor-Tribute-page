@@ -1,0 +1,35 @@
+img{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  padding-bottom: 10px;
+}
+h1{
+  color: #3683bdd4;
+  font-size: 70px;
+}
+body {
+  background: #f5f6f7;
+  color: #1b1b32;
+  font-family: Helvetica;
+  margin: 0;
+}
+h1, p {
+  text-align: center;
+  display: block;
+}
+figcaption{
+  text-align: center;
+  font-style: italic;
+  color: #49494f;
+}
+fieldset{
+  border: none;
+  padding: auto;
+}
+label{
+  font-weight: bold;
+}
+ul > li{
+  padding: 10px;
+}
